@@ -18,6 +18,16 @@
 
 > I build practical products across **AI**, **automation**, and **full-stack development** with a strong focus on usability, quality, and maintainable systems.
 
+## Signature Initiatives
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Edufee-Flagship%20Initiative-7c3aed?style=for-the-badge" alt="Edufee" />
+  <img src="https://img.shields.io/badge/Krivance-Flagship%20Initiative-1d4ed8?style=for-the-badge" alt="Krivance" />
+</p>
+
+- **Edufee** — product initiative spotlighted in this profile collection.
+- **Krivance** — product initiative spotlighted in this profile collection.
+
 ## Skills & Stack
 
 <p>
@@ -61,6 +71,9 @@
 - [proti](https://github.com/Prince95187/proti)
 - [Codex-cognitive](https://github.com/Prince95187/Codex-cognitive)
 
+**Additional project**
+- [Prince95187 (profile repository)](https://github.com/Prince95187/Prince95187)
+
 ## Activity & Highlights
 
 <p align="center">
@@ -70,6 +83,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prince95187&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince95187&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince95187&bg_color=0d1117&color=60a5fa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 ## Contact
